@@ -111,6 +111,9 @@ main {
       transform: scale(1.2);
 }
 
+.person_article-share:focus {
+      outline: none;
+
 
 .person_article-share.open-button {
       background: hsl(210, 46%, 95%);  
